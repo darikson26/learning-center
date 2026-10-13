@@ -1,0 +1,40 @@
+{
+  "sidebar": {
+    "home": "Inicio",
+    "new-item": "Nuevo Objeto Histórico"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Museo Edward C Rochette.",
+    "collections": "Colecciones Históricas"
+  },
+  "collection": {
+    "no-items": "Sin Objetos Históricos",
+    "total-price": "Precio Total",
+    "available-size": "Espacio Disponible"
+  },
+  "historical-object-form": {
+    "title": "Nuevo Objeto Histórico",
+    "subtitle": "Agrega Objetos Históricos a tu Colección",
+    "collection": "Colección",
+    "coin": "Moneda",
+    "summary": "Resumen",
+    "legends": "Leyendas",
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "collection-required": "La colección es obligatoria.",
+    "coin-required": "La moneda es obligatoria.",
+    "summary-required": "El resumen es obligatorio.",
+    "legends-required": "Las leyendas son obligatorias.",
+    "collection-full": "La colección está llena.",
+    "save-error": "No se pudo guardar el objeto."
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "message": "La ruta {path} no fue encontrada.",
+    "back-home": "Volver al Inicio"
+  },
+  "messages": {
+    "load-error": "No se pudieron cargar los datos."
+  }
+}

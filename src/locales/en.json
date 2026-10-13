@@ -1,0 +1,40 @@
+{
+  "sidebar": {
+    "home": "Home",
+    "new-item": "New Historical Object Item"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Museum Edward C Rochette.",
+    "collections": "Historical Collections"
+  },
+  "collection": {
+    "no-items": "No Historical Object",
+    "total-price": "Total Price",
+    "available-size": "Available Size"
+  },
+  "historical-object-form": {
+    "title": "New Historical Object Item",
+    "subtitle": "Add Historical Object Items to Your Collection",
+    "collection": "Collection",
+    "coin": "Coin",
+    "summary": "Summary",
+    "legends": "Legends",
+    "create": "Create",
+    "cancel": "Cancel",
+    "collection-required": "Collection is required.",
+    "coin-required": "Coin is required.",
+    "summary-required": "Summary is required.",
+    "legends-required": "Legends are required.",
+    "collection-full": "Collection is full.",
+    "save-error": "Unable to save item."
+  },
+  "page-not-found": {
+    "title": "Page not found",
+    "message": "The route {path} was not found.",
+    "back-home": "Back to Home"
+  },
+  "messages": {
+    "load-error": "Unable to load data."
+  }
+}
